@@ -23,13 +23,13 @@ Feel free to explore the dashboard and interact with the data visualizations.
 
 ## Data Pipeline Overview
 
-The Ecomminsight Dashboard is powered by a data pipeline that includes the following components:
+The Sales & Customer Insights Dashboard is powered by a data pipeline that includes the following components:
 
-- **Data Collection**: E-commerce data is collected and processed using custom scripts.
+- **Data Collection**: The data is collected and processed using Python script under src/etl.
 
 - **AWS Integration**: Processed data is uploaded to an AWS S3 bucket for storage.
 
-- **Data Cataloging**: AWS Glue Crawler is used to catalog the data stored in the S3 bucket.
+- **Data Cataloging**: AWS Glue Crawler catalogs the data stored in the S3 bucket.
 
 - **Data Querying**: AWS Athena is employed to query and access the cataloged data.
 
@@ -37,5 +37,5 @@ The Ecomminsight Dashboard is powered by a data pipeline that includes the follo
 
 ## Contact Information
 
-If you have any questions or feedback about the Sales & Customer Insights Dashboard, please contact me at [chankaiy@usc.edu].
+If you have any questions or feedback about the Sales & Customer Insights Dashboard, please get in touch with me at [chankaiy@usc.edu].
 

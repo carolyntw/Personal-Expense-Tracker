@@ -1,6 +1,6 @@
 # Sales & Customer Insights Dashboard
 
-![Dashboard Screenshot](insert_screenshot_url_here.png) <!-- Add a screenshot of your Tableau dashboard if available -->
+![Dashboard Screenshot](image/project_image.png) <!-- Add a screenshot of your Tableau dashboard if available -->
 
 ## Table of Contents
 
